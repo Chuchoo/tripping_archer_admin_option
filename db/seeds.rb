@@ -14,11 +14,9 @@ post1.save
 post2 = Post.new(title: "Kalu in subway", content: "Today is saturday and my love kalu is working in subway")
 post2.save
 
-post3 = Post.create{
+post3 = Post.create(
 	title: "Sunday Morning",
-	content: "'Sunday Morning'
-
-Sunday morning rain is falling
+	content: "Sunday morning rain is falling
 Steal some covers share some skin
 Clouds are shrouding us in moments unforgettable
 You twist to fit the mold that I am in
@@ -49,13 +47,12 @@ Sunday morning rain is falling and I'm calling out to you
 Singing someday it'll bring me back to you
 Find a way to bring myself back home to you
 
-May not know
-"
-}
+May not know"
+)
 
-post4 = Post.create{
-	title: "Kalu and Chuchoo"
+post4 = Post.create(
+	title: "Kalu and Chuchoo",
 	content: "Chuchoo loves Kalu very much. Kalu is his heart and soul."
-}
+)
 
 
