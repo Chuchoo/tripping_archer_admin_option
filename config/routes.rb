@@ -1,9 +1,14 @@
 Rails.application.routes.draw do
-  resources :posts
 
-  get 'about' => 'pages'
+  resources :posts    #what does this mean? find out.
+
+  get 'about' => 'pages#about'
 
   root 'pages#welcome'
+
+  get 'admin', :to => 'access#index'
+
+  match ':controller(/:action(/:id))', :via => [:get,:post]
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
