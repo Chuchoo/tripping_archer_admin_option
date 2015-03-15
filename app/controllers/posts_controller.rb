@@ -1,6 +1,6 @@
 class PostsController < ApplicationController
 
-  before_action :confirm_logged_in #:except => [:index]
+  before_action :confirm_logged_in, :except => [:show]
 
   before_action :set_post, only: [:show, :edit, :update, :destroy]
 

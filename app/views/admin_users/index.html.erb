@@ -1,0 +1,31 @@
+<%= link_to('<<Back to Admin Page', {:controller => 'access', :action => 'index'}, :class => 'back-link')%>
+
+  <h1>Admin Users</h1>
+
+  <div><%= pluralize(@admin_users.size, 'admin user')%> found</div>
+  </br>
+  <table class="table">
+    <thead>
+        <tr>
+          <th>Username</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    <% @admin_users.each do |admin_user| %>
+        <tr class="<%= cycle('odd','even') %>">
+          <td><%= admin_user.username%></td>
+          <td><%= admin_user.first_name %></td>
+          <td><%= mail_to(admin_user.email) %></td>
+          <td><%= link_to("Edit", {:action => 'edit', :id => admin_user.id}, :class => 'action edit') %></td>
+          <td><%= link_to("Delete", {:action => 'delete', :id => admin_user.id}, :class => 'action delete') %></td>
+        </tr>
+    <% end %>
+    </tbody>
+  </table>
+
+  </br>
+
+  <%= link_to('Add New Admin User', {:action => 'new'})%>

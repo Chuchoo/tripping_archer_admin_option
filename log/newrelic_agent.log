@@ -334,3 +334,173 @@
 [02/01/15 08:01:12 -0500 ITHAA1SSAPKOTA (5648)] INFO : Installing Rails 4 Error instrumentation
 [02/01/15 08:01:12 -0500 ITHAA1SSAPKOTA (5648)] INFO : Finished instrumentation
 [02/01/15 08:01:16 -0500 ITHAA1SSAPKOTA (5648)] INFO : Doing deferred dependency-detection before Rack startup
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] INFO : Starting the New Relic agent in "development" environment.
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] INFO : New Relic Agent Developer Mode enabled.
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] ERROR : No application name configured.
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] ERROR : The Agent cannot start without at least one. Please check your 
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] ERROR : value set for app_name in the development 
+[02/02/15 10:52:53 -0500 ITHAA1SSAPKOTA (6280)] ERROR : environment.
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing ActiveRecord 4 instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing Net instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing deferred Rack instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing Rack::Builder middleware instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing Rails 3+ middleware instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing Rails 4 Controller instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing Rails 4 view instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Installing Rails 4 Error instrumentation
+[02/02/15 10:52:54 -0500 ITHAA1SSAPKOTA (6280)] INFO : Finished instrumentation
+[02/02/15 10:52:59 -0500 ITHAA1SSAPKOTA (6280)] INFO : Doing deferred dependency-detection before Rack startup
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Starting the New Relic agent in "development" environment.
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : New Relic Agent Developer Mode enabled.
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] ERROR : No application name configured.
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] ERROR : The Agent cannot start without at least one. Please check your 
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] ERROR : value set for app_name in the development 
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] ERROR : environment.
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing ActiveRecord 4 instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing Net instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing deferred Rack instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing Rack::Builder middleware instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing Rails 3+ middleware instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing Rails 4 Controller instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing Rails 4 view instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Installing Rails 4 Error instrumentation
+[02/02/15 13:44:35 -0500 ITHAA1SSAPKOTA (6416)] INFO : Finished instrumentation
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Starting the New Relic agent in "development" environment.
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : New Relic Agent Developer Mode enabled.
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] ERROR : No application name configured.
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] ERROR : The Agent cannot start without at least one. Please check your 
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] ERROR : value set for app_name in the development 
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] ERROR : environment.
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing ActiveRecord 4 instrumentation
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing Net instrumentation
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing deferred Rack instrumentation
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing Rack::Builder middleware instrumentation
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing Rails 3+ middleware instrumentation
+[02/03/15 09:18:53 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing Rails 4 Controller instrumentation
+[02/03/15 09:18:54 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing Rails 4 view instrumentation
+[02/03/15 09:18:54 -0500 ITHAA1SSAPKOTA (6200)] INFO : Installing Rails 4 Error instrumentation
+[02/03/15 09:18:54 -0500 ITHAA1SSAPKOTA (6200)] INFO : Finished instrumentation
+[02/03/15 09:18:59 -0500 ITHAA1SSAPKOTA (6200)] INFO : Doing deferred dependency-detection before Rack startup
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Starting the New Relic agent in "development" environment.
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : New Relic Agent Developer Mode enabled.
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] ERROR : No application name configured.
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] ERROR : The Agent cannot start without at least one. Please check your 
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] ERROR : value set for app_name in the development 
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] ERROR : environment.
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing ActiveRecord 4 instrumentation
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing Net instrumentation
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing deferred Rack instrumentation
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing Rack::Builder middleware instrumentation
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing Rails 3+ middleware instrumentation
+[02/08/15 09:17:35 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing Rails 4 Controller instrumentation
+[02/08/15 09:17:36 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing Rails 4 view instrumentation
+[02/08/15 09:17:36 -0500 ITHAA1SSAPKOTA (6528)] INFO : Installing Rails 4 Error instrumentation
+[02/08/15 09:17:36 -0500 ITHAA1SSAPKOTA (6528)] INFO : Finished instrumentation
+[02/08/15 09:17:42 -0500 ITHAA1SSAPKOTA (6528)] INFO : Doing deferred dependency-detection before Rack startup
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Starting the New Relic agent in "development" environment.
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : New Relic Agent Developer Mode enabled.
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] ERROR : No application name configured.
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] ERROR : The Agent cannot start without at least one. Please check your 
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] ERROR : value set for app_name in the development 
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] ERROR : environment.
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing ActiveRecord 4 instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing Net instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing deferred Rack instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing Rack::Builder middleware instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing Rails 3+ middleware instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing Rails 4 Controller instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing Rails 4 view instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Installing Rails 4 Error instrumentation
+[03/05/15 14:59:27 -0500 ITHAA1SSAPKOTA (4692)] INFO : Finished instrumentation
+[03/05/15 14:59:31 -0500 ITHAA1SSAPKOTA (4692)] INFO : Doing deferred dependency-detection before Rack startup
+[03/07/15 13:00:32 -0500 ITHAA1SSAPKOTA (404)] INFO : Starting the New Relic agent in "development" environment.
+[03/07/15 13:00:32 -0500 ITHAA1SSAPKOTA (404)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/07/15 13:00:32 -0500 ITHAA1SSAPKOTA (404)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : New Relic Agent Developer Mode enabled.
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] ERROR : No application name configured.
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] ERROR : The Agent cannot start without at least one. Please check your 
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] ERROR : value set for app_name in the development 
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] ERROR : environment.
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing ActiveRecord 4 instrumentation
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing Net instrumentation
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing deferred Rack instrumentation
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing Rack::Builder middleware instrumentation
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing Rails 3+ middleware instrumentation
+[03/07/15 13:00:33 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing Rails 4 Controller instrumentation
+[03/07/15 13:00:34 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing Rails 4 view instrumentation
+[03/07/15 13:00:34 -0500 ITHAA1SSAPKOTA (404)] INFO : Installing Rails 4 Error instrumentation
+[03/07/15 13:00:34 -0500 ITHAA1SSAPKOTA (404)] INFO : Finished instrumentation
+[03/07/15 13:00:40 -0500 ITHAA1SSAPKOTA (404)] INFO : Doing deferred dependency-detection before Rack startup
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Starting the New Relic agent in "development" environment.
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : New Relic Agent Developer Mode enabled.
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] ERROR : No application name configured.
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] ERROR : The Agent cannot start without at least one. Please check your 
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] ERROR : value set for app_name in the development 
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] ERROR : environment.
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing ActiveRecord 4 instrumentation
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing Net instrumentation
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing deferred Rack instrumentation
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing Rack::Builder middleware instrumentation
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing Rails 3+ middleware instrumentation
+[03/08/15 15:45:22 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing Rails 4 Controller instrumentation
+[03/08/15 15:45:23 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing Rails 4 view instrumentation
+[03/08/15 15:45:23 -0400 ITHAA1SSAPKOTA (5304)] INFO : Installing Rails 4 Error instrumentation
+[03/08/15 15:45:23 -0400 ITHAA1SSAPKOTA (5304)] INFO : Finished instrumentation
+[03/08/15 15:45:30 -0400 ITHAA1SSAPKOTA (5304)] INFO : Doing deferred dependency-detection before Rack startup
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] INFO : Starting the New Relic agent in "development" environment.
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] INFO : New Relic Agent Developer Mode enabled.
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] ERROR : No application name configured.
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] ERROR : The Agent cannot start without at least one. Please check your 
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] ERROR : value set for app_name in the development 
+[03/13/15 13:38:32 -0400 ITHAA1SSAPKOTA (6336)] ERROR : environment.
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing ActiveRecord 4 instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing Net instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing deferred Rack instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing Rack::Builder middleware instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing Rails 3+ middleware instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing Rails 4 Controller instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing Rails 4 view instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Installing Rails 4 Error instrumentation
+[03/13/15 13:38:33 -0400 ITHAA1SSAPKOTA (6336)] INFO : Finished instrumentation
+[03/13/15 13:38:39 -0400 ITHAA1SSAPKOTA (6336)] INFO : Doing deferred dependency-detection before Rack startup
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Starting the New Relic agent in "development" environment.
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : To prevent agent startup add a NEWRELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Reading configuration from config/newrelic.yml (C:/Users/ssapkota/Desktop/tripping-archer)
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : New Relic Agent Developer Mode enabled.
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] ERROR : No application name configured.
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] ERROR : The Agent cannot start without at least one. Please check your 
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] ERROR : newrelic.yml and ensure that it is valid and has at least one 
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] ERROR : value set for app_name in the development 
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] ERROR : environment.
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing ActiveRecord 4 instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing Net instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing deferred Rack instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing Rack::Builder middleware instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing Rails 3+ middleware instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing Rails 4 Controller instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing Rails 4 view instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Installing Rails 4 Error instrumentation
+[03/13/15 15:01:59 -0400 ITHAA1SSAPKOTA (1272)] INFO : Finished instrumentation
+[03/13/15 15:02:03 -0400 ITHAA1SSAPKOTA (1272)] INFO : Doing deferred dependency-detection before Rack startup

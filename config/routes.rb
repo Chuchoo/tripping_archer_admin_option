@@ -1,12 +1,13 @@
 Rails.application.routes.draw do
 
+
   resources :posts    #what does this mean? find out.
 
   get 'about' => 'pages#about'
 
   root 'pages#welcome'
 
-  get 'admin', :to => 'access#index'
+  get '/admin', :to => 'access#index'
 
   match ':controller(/:action(/:id))', :via => [:get,:post]
 

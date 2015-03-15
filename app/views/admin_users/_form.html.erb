@@ -1,0 +1,43 @@
+<%#= error_messages_for(@admin_user) %>
+<table summary="Admin user form fields">
+ <div class="form-group">
+  <tr>
+    <th><%= f.label(:first_name, "Name")%></th>
+    <td><%= f.text_field :first_name, class: "form-control" %></td>
+  </tr>
+ </div>
+
+  <div class="form-group">
+  <tr>
+    <th><%= f.label(:last_name)%></th>
+    <td><%= f.text_field :last_name, class: "form-control" %></td>
+  </tr>
+  </div>
+
+  <div class="form-group">
+  <tr>
+    <th><%= f.label(:email)%></th>
+    <td><%= f.text_field :email, class: "form-control" %></td>
+  </tr>
+  </div>
+
+  <div class="form-group">
+  <tr>
+    <th><%= f.label(:username)%></th>
+    <td><%= f.text_field :username, class: "form-control" %></td>
+  </tr>
+  </div>
+
+  <div class="form-group">
+  <tr>
+    <th><%= f.label(:password)%></th>
+    <td><%= f.password_field :password, class: "form-control" %></td>
+  </tr>
+  </div>
+  <div class="form-group">
+  <tr>
+    <th><%= f.label(:password_confirmation)%></th>
+    <td><%= f.password_field :password_confirmation, class: "form-control" %></td>
+  </tr>
+  </div>
+</table>
