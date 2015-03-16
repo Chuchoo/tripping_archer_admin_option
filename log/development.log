@@ -34033,3 +34033,4 @@ Processing by PostsController#index as HTML
   [1m[36mPost Load (0.0ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
   Rendered posts/index.html.erb within layouts/application (9.0ms)
 Completed 200 OK in 74ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+  [1m[36mAdminUser Load (1.0ms)[0m  [1mSELECT  "admin_users".* FROM "admin_users"   ORDER BY "admin_users"."id" ASC LIMIT 1[0m
